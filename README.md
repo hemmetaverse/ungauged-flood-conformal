@@ -73,7 +73,7 @@ At nominal 90%, mean per-basin coverage:
 | DRC-CQR | 0.887 | 0.763 | 0.880 | 0.749 |
 
 - Raw quantiles are strongly overconfident in unseen basins. Gauge-free calibration restores mean coverage to 87–89%.
-- Width-normalized scores more than triple flood-day coverage compared with split conformal prediction.
+- Width-normalized scores raise flood-day coverage from 24–30% (split conformal) to about 80%.
 - Regime conditioning equalizes coverage across simulated-flow regimes (a gap of 0.01–0.03), and DRC-CQR gives the best mean Winkler score under random holdout. The trade-off is lower coverage of observed flood days.
 - Donor weighting helps mainly in arid basins, and makes 98% intervals uninformative.
 
