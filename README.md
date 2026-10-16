@@ -1,6 +1,6 @@
 # Gauge-free conformal calibration for ungauged flood forecasting
 
-Code and results for the manuscript *"Transferable Uncertainty for Flood-Relevant Streamflow Prediction in Ungauged Basins: Gauge-Free Conformal Calibration of a Regional Deep Learning Model"* by Hemant Palivela (manuscript under review).
+Code and results for the manuscript *"Transferable Uncertainty for Flood-Relevant Streamflow Prediction in Ungauged Basins: Gauge-Free Conformal Calibration of Regional LSTMs"* by Hemant Palivela (manuscript under review).
 
 The question the code answers: can a regional deep-learning streamflow model produce prediction intervals for **ungauged** basins that stay calibrated, especially on flood days, when **no discharge from the target basin** is available for calibration and the target may differ from the training basins?
 
